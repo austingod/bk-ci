@@ -5,6 +5,6 @@ subprojects {
     dependencies {
         compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
         compile "org.jetbrains.kotlin:kotlin-reflect"
-        compile 'org.apache.tomcat.embed:tomcat-embed-core'
+        compile "org.apache.tomcat.embed:tomcat-embed-core"
     }
 }

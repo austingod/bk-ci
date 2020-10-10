@@ -10,7 +10,6 @@ dependencies {
     compile project(":core:defect:api-defect")
     compile project(":core:task:api-task")
     compile project(":core:common:common-external-auth-internal")
-    compile project(":ext:tencent:coverity:api-coverity")
     compile project(":core:schedule:api-schedule")
     compile "io.jsonwebtoken:jjwt"
     compile group: 'net.sf.json-lib', name: 'json-lib', classifier: "jdk15"
